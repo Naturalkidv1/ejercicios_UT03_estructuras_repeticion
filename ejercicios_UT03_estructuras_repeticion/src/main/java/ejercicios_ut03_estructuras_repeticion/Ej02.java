@@ -9,7 +9,7 @@ package ejercicios_ut03_estructuras_repeticion;
  * @author Naturalkid
  */
 public class Ej02 {
-
+//
     /**
      * @param args the command line arguments
      */
